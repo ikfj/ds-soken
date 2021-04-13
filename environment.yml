@@ -1,0 +1,8 @@
+channel_priority: strict
+channels:
+  - conda-forge
+dependencies:
+  - imagemagick=7.0.10_0
+  - r-base=3.6
+  - r-magick=2.6.0
+  - r-tidyverse
