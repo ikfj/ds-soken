@@ -2,7 +2,18 @@ channel_priority: strict
 channels:
   - conda-forge
 dependencies:
-  - imagemagick=7.0.10_0
   - r-base=3.6
-  - r-magick=2.6.0
   - r-tidyverse
+  - r-caret
+  - r-catools
+  - r-cvtools
+  - r-data.table
+  - r-geosphere
+  - r-hdf5r
+  - r-leaflet
+  - r-matrix
+  - r-rcpproll
+  - r-rgdal
+  - r-unbalanced
+  - r-xlsx
+  - r-xml
