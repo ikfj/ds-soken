@@ -16,7 +16,7 @@ Your environment will not be lost when you close the browser.
 
 > Note: Each time you click the button, a new environment will be created.
 > So, if you press this button twice, you will have two environments.
-> One student can have a maximum of 20 environments.
+> One student can have a maximum of four (4) environments.
 
 ## For the second time onwards, reuse your environment
 
