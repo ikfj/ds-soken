@@ -17,3 +17,8 @@ dependencies:
   - r-unbalanced
   - r-xlsx
   - r-xml
+  - r-rpart
+  - r-partykit
+  - r-randomForest
+  - r-caret
+  - r-e1071
