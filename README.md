@@ -5,11 +5,11 @@ Practical Data Science in SOKENDAI
 ## For the first time, create your environment
 
 If you have not done so already, please click this button [![Binder](https://binder.cs.rcos.nii.ac.jp/badge_logo.svg)](https://binder.cs.rcos.nii.ac.jp/v2/gh/ikfj/ds-soken/main) once.
-Then you will be navigated to your own programming environment with Jupyter Notebook (default) and RStudio (optional).
+Then you will be navigated to your own programming environment with Jupyter Notebook and RStudio.
 
 To use RStudio, please click the [New] button on the top-right corner, then choose RStudio.
 
-[![Create your own programming environment](https://meatwiki.nii.ac.jp//confluence/download/attachments/67614937/%E7%94%BB%E9%9D%A24.png)](https://meatwiki.nii.ac.jp//confluence/download/attachments/67614937/%E7%94%BB%E9%9D%A24.png)
+[![Create your own programming environment](https://meatwiki.nii.ac.jp/confluence/download/attachments/88608282/2024-04-04_16_12_12.png)](https://meatwiki.nii.ac.jp/confluence/download/attachments/88608282/2024-04-04_16_12_12.png)
 
 When finished, save the edited file and close the browser.
 Your environment will not be lost when you close the browser.
